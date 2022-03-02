@@ -1,3 +1,5 @@
 Conflicto
 Esta es la prueba de Cristhian
 Punto 7
+Esta es un prueba de de un conflicto.
+Sólo una prueba.
